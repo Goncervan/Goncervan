@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone 
+I want to develop to help make other people's dreams come true
+
 
 <!--
 **Goncervan/Goncervan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
