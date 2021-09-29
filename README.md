@@ -1,18 +1,37 @@
-### Hi everyone 
-I want to develop to help make other people's dreams come true
+<h2> Hello word! I'm Gonzalo</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; SoyHenry BootCamp.
+- 💼 &nbsp; Currently looking for my first .
+- ❤ &nbsp; My mission is to help make people's dream come true.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  HTML | CSS | JavaScript | Node.Js | React-Redux |
+- 🛢 &nbsp;
+  PostreSql 
+- ⚙️ &nbsp;
+  GitHub 
+- 🔧 &nbsp;
+  Visual Studio Code
 
 
-<!--
-**Goncervan/Goncervan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gonzalo-cervan-2915a1203/">
+    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/goncervan/">
+    <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  </a>
+  <a href="mailto:gonfedecer@gmail.com">
+   <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+</p>
