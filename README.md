@@ -4,13 +4,13 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; SoyHenry BootCamp.
-- 💼 &nbsp; Currently looking for my first .
+- 💼 &nbsp; Currently looking for my first IT job.
 - ❤ &nbsp; My mission is to help make people's dream come true.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  HTML | CSS | JavaScript | Node.Js | React-Redux |
+  HTML | CSS | JavaScript | Node.Js | React-Redux | Sequelize 
 - 🛢 &nbsp;
   PostreSql 
 - ⚙️ &nbsp;
